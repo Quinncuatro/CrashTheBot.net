@@ -2,7 +2,7 @@
 
 <html>
 <head>
-  <title>CrashTheBot.net</title>
+  <title>Henry Quinn</title>
   <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
   <link rel="stylesheet" href="splash.css" type="text/css">
   <link href='https://fonts.googleapis.com/css?family=Ubuntu:500' rel='stylesheet' type='text/css'>
