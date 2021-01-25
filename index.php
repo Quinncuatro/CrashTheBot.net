@@ -17,8 +17,11 @@
   <div class="ls hide">
   <h5>Communications:</h5>
   <ul>
-    <li><a href="dowhatmakes/">Blog
-    <br><span class="displayText">// Updates will be more frequent once A100 starts</span></a></li>
+    <li><a href="https://henryneeds.coffee/blog">Blog
+    <br><span class="displayText">// Mostly tech and community stuff.</span></a></li>
+    <br>
+    <li><a href="https://twitter.com/quinncuatro">Twitter
+    <br><span class="displayText">// Who even knows?</span></a></li>
     <br>
   </ul>
   
@@ -43,6 +46,30 @@
 
   <h5>Side Projects:</h5>
   <ul>
+    <li><a href="/coolshit/splash">CoolShit Frontend
+    <br><span class="displayText">// Example front end for a "fun things to do" in your city web app</span></a></li>
+    <br>
+    <li><a href="/coolshit/dataentry">CoolShit Crowdsource Data Form
+    <br><span class="displayText">// Example crowdsource data entry form for the coolshit app</span></a></li>
+    <br>
+    <li><a href="/first_site">My First Web Page
+    <br><span class="displayText">// The first web page I ever built for a high school class</span></a></li>
+    <br>
+    <li><a href="/FirstSite">My First Personal Site
+    <br><span class="displayText">// My first personal web page</span></a></li>
+    <br>
+    <li><a href="/whateverforever/">HackerDraft Template
+    <br><span class="displayText">// Template example for an automated developer portfolio site</span></a></li>
+    <br>
+    <li><a href="https://henryneeds.coffee">Personal Website
+    <br><span class="displayText">// Updated and current professional landing page</span></a></li>
+    <br>
+    <li><a href="/hotonesdraftchallenge/">Hot Ones Draft Challenge
+    <br><span class="displayText">// A board for a Hot Ones style fantasy sports draft order contest</span></a></li>
+    <br>
+    <li><a href="/intranet">Gov Intranet Example
+    <br><span class="displayText">// Example version of an intranet tool I built for US Courts</span></a></li>
+    <br>
     <li><a href="/MapsExperiments/camp/">Camp Heatmap
     <br><span class="displayText">// Heatmap of addresses from a customer database</span></a></li>
     <br>
